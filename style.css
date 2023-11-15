@@ -115,6 +115,7 @@ h4{
     background-color: #191919;
 }
 .about img{
+    border-radius: 15%;
     height: auto;
     width: 430px;
 }
